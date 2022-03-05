@@ -103,6 +103,7 @@ body {
 }
 
 .menu {
+    width: 200%;
     background-color: #8A60D4;
     height: 50px;
 }
